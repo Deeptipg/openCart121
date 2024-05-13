@@ -1,0 +1,84 @@
+2024-05-09 14:03:20 INFO  Utils:112 - [TestNG] Running:
+  C:\SeleniumWorkspace\openCart121\grid-docker.xml
+
+2024-05-09 14:03:27 INFO  TC001_AccountRegistrationTest:15 - **** Starting TC001_AccountRegistrationTest **** 
+2024-05-09 14:03:27 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount link.. 
+2024-05-09 14:03:28 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register link..
+2024-05-09 14:03:28 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details...
+2024-05-09 14:03:30 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 14:03:30 INFO  TC001_AccountRegistrationTest:56 - Test Passed
+2024-05-09 14:03:30 INFO  TC001_AccountRegistrationTest:63 - **** Finished TC001_AccountRegistrationTest **** 
+2024-05-09 14:03:34 INFO  TC002_LoginTest:16 - **** Starting TC_002_LoginPage ******
+2024-05-09 14:03:36 INFO  TC002_LoginTest:42 - **** Finished TC_002_LoginPage
+2024-05-09 14:03:46 INFO  TC001_AccountRegistrationTest:15 - **** Starting TC001_AccountRegistrationTest **** 
+2024-05-09 14:03:46 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount link.. 
+2024-05-09 14:03:48 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register link..
+2024-05-09 14:03:48 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details...
+2024-05-09 14:03:49 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 14:03:49 INFO  TC001_AccountRegistrationTest:56 - Test Passed
+2024-05-09 14:03:49 INFO  TC001_AccountRegistrationTest:63 - **** Finished TC001_AccountRegistrationTest **** 
+2024-05-09 14:03:58 INFO  TC002_LoginTest:16 - **** Starting TC_002_LoginPage ******
+2024-05-09 14:04:00 INFO  TC002_LoginTest:42 - **** Finished TC_002_LoginPage
+2024-05-09 14:05:16 INFO  Utils:112 - [TestNG] Running:
+  C:\SeleniumWorkspace\openCart121\grid-docker.xml
+
+2024-05-09 14:05:21 INFO  TC001_AccountRegistrationTest:15 - **** Starting TC001_AccountRegistrationTest **** 
+2024-05-09 14:05:21 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount link.. 
+2024-05-09 14:05:22 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register link..
+2024-05-09 14:05:22 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details...
+2024-05-09 14:05:23 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 14:05:23 INFO  TC001_AccountRegistrationTest:56 - Test Passed
+2024-05-09 14:05:23 INFO  TC001_AccountRegistrationTest:63 - **** Finished TC001_AccountRegistrationTest **** 
+2024-05-09 14:05:27 INFO  TC002_LoginTest:16 - **** Starting TC_002_LoginPage ******
+2024-05-09 14:05:29 INFO  TC002_LoginTest:42 - **** Finished TC_002_LoginPage
+2024-05-09 14:05:35 INFO  TC001_AccountRegistrationTest:15 - **** Starting TC001_AccountRegistrationTest **** 
+2024-05-09 14:05:35 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount link.. 
+2024-05-09 14:05:36 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register link..
+2024-05-09 14:05:36 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details...
+2024-05-09 14:05:38 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 14:05:38 INFO  TC001_AccountRegistrationTest:56 - Test Passed
+2024-05-09 14:05:38 INFO  TC001_AccountRegistrationTest:63 - **** Finished TC001_AccountRegistrationTest **** 
+2024-05-09 14:05:44 INFO  TC002_LoginTest:16 - **** Starting TC_002_LoginPage ******
+2024-05-09 14:05:46 INFO  TC002_LoginTest:42 - **** Finished TC_002_LoginPage
+2024-05-09 14:07:11 INFO  Utils:112 - [TestNG] Running:
+  C:\SeleniumWorkspace\openCart121\grid-docker.xml
+
+2024-05-09 14:07:16 INFO  TC001_AccountRegistrationTest:15 - **** Starting TC001_AccountRegistrationTest **** 
+2024-05-09 14:07:16 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount link.. 
+2024-05-09 14:07:17 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register link..
+2024-05-09 14:07:17 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details...
+2024-05-09 14:07:19 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 14:07:19 INFO  TC001_AccountRegistrationTest:56 - Test Passed
+2024-05-09 14:07:19 INFO  TC001_AccountRegistrationTest:63 - **** Finished TC001_AccountRegistrationTest **** 
+2024-05-09 14:07:23 INFO  TC002_LoginTest:16 - **** Starting TC_002_LoginPage ******
+2024-05-09 14:07:24 INFO  TC002_LoginTest:42 - **** Finished TC_002_LoginPage
+2024-05-09 14:07:32 INFO  TC001_AccountRegistrationTest:15 - **** Starting TC001_AccountRegistrationTest **** 
+2024-05-09 14:07:32 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount link.. 
+2024-05-09 14:07:33 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register link..
+2024-05-09 14:07:33 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details...
+2024-05-09 14:07:35 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 14:07:35 INFO  TC001_AccountRegistrationTest:56 - Test Passed
+2024-05-09 14:07:35 INFO  TC001_AccountRegistrationTest:63 - **** Finished TC001_AccountRegistrationTest **** 
+2024-05-09 14:07:41 INFO  TC002_LoginTest:16 - **** Starting TC_002_LoginPage ******
+2024-05-09 14:07:43 INFO  TC002_LoginTest:42 - **** Finished TC_002_LoginPage
+2024-05-09 14:30:08 INFO  Utils:112 - [TestNG] Running:
+  C:\SeleniumWorkspace\openCart121\grid-docker.xml
+
+2024-05-09 14:30:12 INFO  TC001_AccountRegistrationTest:15 - **** Starting TC001_AccountRegistrationTest **** 
+2024-05-09 14:30:12 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount link.. 
+2024-05-09 14:30:13 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register link..
+2024-05-09 14:30:13 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details...
+2024-05-09 14:30:14 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 14:30:14 INFO  TC001_AccountRegistrationTest:56 - Test Passed
+2024-05-09 14:30:14 INFO  TC001_AccountRegistrationTest:63 - **** Finished TC001_AccountRegistrationTest **** 
+2024-05-09 14:30:17 INFO  TC002_LoginTest:16 - **** Starting TC_002_LoginPage ******
+2024-05-09 14:30:19 INFO  TC002_LoginTest:42 - **** Finished TC_002_LoginPage
+2024-05-09 14:30:25 INFO  TC001_AccountRegistrationTest:15 - **** Starting TC001_AccountRegistrationTest **** 
+2024-05-09 14:30:25 INFO  TC001_AccountRegistrationTest:22 - Clicked on MyAccount link.. 
+2024-05-09 14:30:26 INFO  TC001_AccountRegistrationTest:25 - Clicked on Register link..
+2024-05-09 14:30:26 INFO  TC001_AccountRegistrationTest:29 - Providing Customer Details...
+2024-05-09 14:30:27 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-05-09 14:30:27 INFO  TC001_AccountRegistrationTest:56 - Test Passed
+2024-05-09 14:30:27 INFO  TC001_AccountRegistrationTest:63 - **** Finished TC001_AccountRegistrationTest **** 
+2024-05-09 14:30:32 INFO  TC002_LoginTest:16 - **** Starting TC_002_LoginPage ******
+2024-05-09 14:30:34 INFO  TC002_LoginTest:42 - **** Finished TC_002_LoginPage
